@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          learn how to craete branch and push
         </a>
       </header>
     </div>
